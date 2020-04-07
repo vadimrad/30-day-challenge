@@ -1,2 +1,2 @@
 # 30-day-challenge
- 30-Day LeetCoding Challenge
+Repository with solutions of algorithm challenges of 30-Day LeetCoding Challenge
